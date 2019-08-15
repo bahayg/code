@@ -1,0 +1,15 @@
+.btn {
+  display: block;
+}
+
+#quote {
+  display: none;
+}
+
+#helpBlock1 {
+  display: none;
+}
+
+#helpBlock2 {
+  display: none;
+}
